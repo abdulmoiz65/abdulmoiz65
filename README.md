@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdulmoiz65" alt="abdulmoiz65" /></a> </p>
 
 # 💫 About Me:
-🔭 I’m currently working on:<br>improving web and application technologies.<br><br>👯 I’m looking to collaborate on:<br>Fullstack projects<br><br>📫 How to reach me abdulmoiz.devv@gmail.com<br><br>🌱 I’m currently learning:<br>Advanced AWS Services , graphQL, MERN stack and Docker.<br><br>💬 Ask me about:<br>JavaScript, React, AWS, and any general software development questions💻.<br><br>
+🔭 I’m currently working on:<br>improving web and application technologies.<br><br>👯 I’m looking to collaborate on:<br>Fullstack projects.<br><br>📫 How to reach me abdulmoiz.devv@gmail.com<br><br>🌱 I’m currently learning:<br>Advanced AWS Services , graphQL, MERN stack and Docker.<br><br>💬 Ask me about:<br>JavaScript, React, AWS, and any general software development questions💻.<br><br>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/AbdulMoiz) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abdulmoiz__65) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/abdul-moiz-65-devv) 
